@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+D:\ИТМО\Технология ADO.NET\Labs\PracticTask3\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
