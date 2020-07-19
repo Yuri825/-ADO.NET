@@ -39,7 +39,7 @@ namespace DBCommand
                     results.Append(Environment.NewLine);
                     }
                     ResultsTextBox.Text = results.ToString();
-                    sqlConnection1.Close();
+                  
                   
                 }
                 catch (SqlException ex)
