@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb

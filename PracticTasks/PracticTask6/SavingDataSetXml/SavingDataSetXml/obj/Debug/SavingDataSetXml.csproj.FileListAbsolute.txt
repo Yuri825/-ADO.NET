@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
