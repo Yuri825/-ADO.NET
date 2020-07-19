@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb

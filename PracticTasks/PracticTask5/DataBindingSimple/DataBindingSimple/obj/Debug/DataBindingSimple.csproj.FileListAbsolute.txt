@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources

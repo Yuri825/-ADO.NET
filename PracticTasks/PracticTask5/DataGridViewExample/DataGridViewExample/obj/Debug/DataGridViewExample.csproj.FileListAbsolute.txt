@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb

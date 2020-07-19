@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
