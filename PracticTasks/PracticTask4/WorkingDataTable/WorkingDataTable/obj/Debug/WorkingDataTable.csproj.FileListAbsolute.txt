@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.pdb

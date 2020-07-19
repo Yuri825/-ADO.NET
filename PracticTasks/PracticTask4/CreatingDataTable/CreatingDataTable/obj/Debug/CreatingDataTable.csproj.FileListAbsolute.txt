@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb

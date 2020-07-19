@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb

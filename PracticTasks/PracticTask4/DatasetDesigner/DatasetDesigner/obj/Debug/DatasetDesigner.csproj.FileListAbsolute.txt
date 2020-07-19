@@ -1,0 +1,13 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\bin\Debug\Northwind.mdf
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\bin\Debug\Northwind_log.ldf
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.CreatingDataTable.resources

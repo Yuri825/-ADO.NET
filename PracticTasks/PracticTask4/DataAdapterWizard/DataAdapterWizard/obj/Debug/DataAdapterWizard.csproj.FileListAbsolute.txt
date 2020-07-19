@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb
