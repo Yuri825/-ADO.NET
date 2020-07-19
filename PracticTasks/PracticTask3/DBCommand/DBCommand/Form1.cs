@@ -22,11 +22,13 @@ namespace DBCommand
         {
             StringBuilder results = new StringBuilder();
 
-            using (sqlConnection1)
+            //using (sqlConnection1)
             {
                 try
                 {
-                    sqlConnection1.Open(); SqlDataReader reader = sqlCommand1.ExecuteReader();
+                    sqlConnection1.Open(); 
+                    SqlDataReader reader = sqlCommand1.ExecuteReader();
+
                     while (reader.Read())
                     {
                         for (int i = 0; i < reader.FieldCount; i++)
@@ -37,10 +39,16 @@ namespace DBCommand
                     results.Append(Environment.NewLine);
                     }
                     ResultsTextBox.Text = results.ToString();
+                    sqlConnection1.Close();
+                  
                 }
                 catch (SqlException ex)
                 {
                     MessageBox.Show(ex.Message, "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                finally
+                {
+                    sqlConnection1.Close();
                 }
             }
         }
@@ -49,7 +57,7 @@ namespace DBCommand
         {
             StringBuilder results = new StringBuilder();
 
-            using (sqlConnection1)
+            //using (sqlConnection1)
             {   
                 sqlCommand1.CommandText =   "SELECT CustomerID, CompanyName FROM Customers;" + 
                                             "SELECT ProductName, UnitPrice, QuantityPerUnit FROM Products;";
@@ -75,11 +83,17 @@ namespace DBCommand
                     }
                     while (MoreResults);
 
+                  
+
                     ResultsTextBox.Text = results.ToString();
                 }
                 catch (SqlException ex)
                 {
                     MessageBox.Show(ex.Message, "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                finally
+                {
+                    sqlConnection1.Close();
                 }
             }
         }
@@ -88,7 +102,7 @@ namespace DBCommand
         {
             StringBuilder results = new StringBuilder();
             
-            using (sqlConnection1)
+            //using (sqlConnection1)
             {
                 try
                 {
@@ -112,12 +126,16 @@ namespace DBCommand
                 { 
                     MessageBox.Show(ex.Message, "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error); 
                 }
+                finally
+                {
+                    sqlConnection1.Close();
+                }
             }
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            using (sqlConnection1) 
+            //using (sqlConnection1) 
             { 
                 sqlCommand3.CommandText =   "CREATE TABLE SalesPersons " + "(" + "[SalesPersonID] [int] IDENTITY(1,1) NOT NULL, " + 
                                             "[FirstName] [nvarchar](50) NULL, " + "[LastName] [nvarchar](50) NULL)"; 
@@ -129,7 +147,11 @@ namespace DBCommand
                 catch (SqlException ex) 
                 { 
                     MessageBox.Show(ex.Message, "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error); 
-                } 
+                }
+                finally
+                {
+                    sqlConnection1.Close();
+                }
             }
         }
 
