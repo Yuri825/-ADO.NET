@@ -1,0 +1,7 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask7\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask7\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask7\Linq_Student\Linq_Student\bin\Debug\Linq_Student.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask7\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask7\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask7\Linq_Student\Linq_Student\obj\Debug\Linq_Student.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask7\Linq_Student\Linq_Student\obj\Debug\Linq_Student.pdb
