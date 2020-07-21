@@ -18,3 +18,13 @@ D:\ИТМО\Технология ADO.NET\Labs\DBConnection Пр.зад.2\DBConne
 D:\ИТМО\Технология ADO.NET\Labs\DBConnection Пр.зад.2\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
 D:\ИТМО\Технология ADO.NET\Labs\DBConnection Пр.зад.2\DBConnection\obj\Debug\DBConnection.exe
 D:\ИТМО\Технология ADO.NET\Labs\DBConnection Пр.зад.2\DBConnection\obj\Debug\DBConnection.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\bin\Debug\DBConnection.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\bin\Debug\DBConnection.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\bin\Debug\DBConnection.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\obj\Debug\DBConnection.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\obj\Debug\DBConnection.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask2\DBConnection\obj\Debug\DBConnection.pdb
