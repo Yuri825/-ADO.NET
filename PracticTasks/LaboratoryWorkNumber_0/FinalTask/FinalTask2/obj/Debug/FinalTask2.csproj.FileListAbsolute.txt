@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\bin\Debug\FinalTask2.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\bin\Debug\FinalTask2.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\bin\Debug\FinalTask2.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.Task2.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.csprojAssemblyReference.cache

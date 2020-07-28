@@ -1,0 +1,11 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\Database1.mdf
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\Database1_log.ldf
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\FinalTask.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\FinalTask.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\FinalTask.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.Task1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask1.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask1.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.pdb

@@ -1,0 +1,10 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb

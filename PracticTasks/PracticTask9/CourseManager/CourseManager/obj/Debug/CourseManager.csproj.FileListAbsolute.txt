@@ -1,0 +1,17 @@
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\obj\Debug\CourseManager.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CourseManager\CourseManager\obj\Debug\CourseManager.OfficeAssignment.resources
