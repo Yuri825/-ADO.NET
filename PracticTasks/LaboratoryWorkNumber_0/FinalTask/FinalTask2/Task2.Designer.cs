@@ -28,10 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -51,6 +53,7 @@
             this.button1.Size = new System.Drawing.Size(109, 48);
             this.button1.TabIndex = 1;
             this.button1.Text = "Показать данные клиентов";
+            this.toolTip1.SetToolTip(this.button1, "Нажмите, чтобы узнать данные клиентов.\r\n Вы можете внести изменерния в таблицу");
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
@@ -62,6 +65,7 @@
             this.button2.Size = new System.Drawing.Size(109, 48);
             this.button2.TabIndex = 2;
             this.button2.Text = "Сохранить введенные данные";
+            this.toolTip1.SetToolTip(this.button2, "Нажмите, чтобы сохранить внесенные в таблицу изменения");
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -73,8 +77,13 @@
             this.button3.Size = new System.Drawing.Size(109, 48);
             this.button3.TabIndex = 3;
             this.button3.Text = "Удалить выбранную строку";
+            this.toolTip1.SetToolTip(this.button3, "Нажмите, чтобы удалить выбранную строку");
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // toolTip1
+            // 
+            this.toolTip1.Tag = "";
             // 
             // Task2
             // 
@@ -87,7 +96,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "Task2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Задание 2. Редактирование данных клиентов";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
@@ -99,6 +108,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 

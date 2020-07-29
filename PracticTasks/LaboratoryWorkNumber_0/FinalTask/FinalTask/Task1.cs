@@ -1,4 +1,7 @@
-﻿using System;
+﻿// В данном задании мы реализуем чтение данных непосредственно из базы данных без 
+// возможности редактирования c помощью объекта DataReader. 
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Configuration;

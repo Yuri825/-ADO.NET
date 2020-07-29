@@ -1,4 +1,8 @@
-﻿using System;
+﻿// В данном задании мы реализуем получение данных из базы данных в набор данных "DataSet" 
+// с помощью объекта "DataAdapter". Таким образом мы реализуем возможность получения и 
+// изменения данных
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
