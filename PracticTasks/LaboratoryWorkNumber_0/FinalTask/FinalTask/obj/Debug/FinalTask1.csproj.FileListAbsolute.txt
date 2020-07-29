@@ -9,3 +9,4 @@ D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\Fin
 D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask1.csproj.CoreCompileInputs.cache
 D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.exe
 D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask1.csprojAssemblyReference.cache

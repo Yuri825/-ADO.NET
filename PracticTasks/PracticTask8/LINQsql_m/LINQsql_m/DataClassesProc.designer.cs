@@ -22,6 +22,7 @@ namespace LINQsql_m
 	using System;
 	
 	
+	[global::System.Data.Linq.Mapping.DatabaseAttribute(Name="Northwind")]
 	public partial class DataClassesProcDataContext : System.Data.Linq.DataContext
 	{
 		
@@ -30,6 +31,12 @@ namespace LINQsql_m
     #region Определения метода расширяемости
     partial void OnCreated();
     #endregion
+		
+		public DataClassesProcDataContext() : 
+				base(global::LINQsql_m.Properties.Settings.Default.NorthwindConnectionString, mappingSource)
+		{
+			OnCreated();
+		}
 		
 		public DataClassesProcDataContext(string connection) : 
 				base(connection, mappingSource)
@@ -53,6 +60,57 @@ namespace LINQsql_m
 				base(connection, mappingSource)
 		{
 			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.[Ten Most Expensive Products]")]
+		public ISingleResult<Ten_Most_Expensive_ProductsResult> Ten_Most_Expensive_Products()
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())));
+			return ((ISingleResult<Ten_Most_Expensive_ProductsResult>)(result.ReturnValue));
+		}
+	}
+	
+	public partial class Ten_Most_Expensive_ProductsResult
+	{
+		
+		private string _TenMostExpensiveProducts;
+		
+		private System.Nullable<decimal> _UnitPrice;
+		
+		public Ten_Most_Expensive_ProductsResult()
+		{
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_TenMostExpensiveProducts", DbType="NVarChar(40) NOT NULL", CanBeNull=false)]
+		public string TenMostExpensiveProducts
+		{
+			get
+			{
+				return this._TenMostExpensiveProducts;
+			}
+			set
+			{
+				if ((this._TenMostExpensiveProducts != value))
+				{
+					this._TenMostExpensiveProducts = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_UnitPrice", DbType="Money")]
+		public System.Nullable<decimal> UnitPrice
+		{
+			get
+			{
+				return this._UnitPrice;
+			}
+			set
+			{
+				if ((this._UnitPrice != value))
+				{
+					this._UnitPrice = value;
+				}
+			}
 		}
 	}
 }

@@ -17,12 +17,18 @@ namespace LINQsqlSproc
             InitializeComponent();
         }
 
-        Northwnd db = new Northwnd(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\ИТМО\Технология ADO.NET\Базы\Northwind.mdf;Integrated Security=True;Connect Timeout=30");
+        Northwnd db = 
+            new Northwnd(   @"Data Source=(LocalDB)\MSSQLLocalDB;
+                            AttachDbFilename=D:\ИТМО\Технология ADO.NET\Базы\Northwind.mdf;
+                            Integrated Security=True;
+                            Connect Timeout=30"
+                        );
 
         private void button1_Click(object sender, EventArgs e)
         {
             string param = textBox1.Text;
-            var custquery = db.CustOrdersDetail(Convert.ToInt32(param));
+
+           var custquery = db.CustOrdersDetail(Convert.ToInt32(param));
 
             string msg = "";
             foreach (CustOrdersDetailResult custOrdersDetail in custquery)

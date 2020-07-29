@@ -46,5 +46,10 @@ namespace FinalTask3
         {
             dataGridView1.DataSource = schoolContext.Customers.ToList();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -58,5 +58,7 @@ namespace FinalTask2
             ds.Tables["Customers"].Rows[index].Delete();
             adapter.Update(ds.Tables["Customers"]);
         }
+
+       
     }
 }
