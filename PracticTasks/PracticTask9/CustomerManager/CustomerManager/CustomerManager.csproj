@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{476E157D-643E-47F0-8E53-76FF673CF3DF}</ProjectGuid>
+    <ProjectGuid>{985D2CF1-FF3A-4BC2-B2A3-89E97BE8412A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>CustomerManager</RootNamespace>
     <AssemblyName>CustomerManager</AssemblyName>
@@ -42,7 +42,6 @@
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
-    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
@@ -63,6 +62,11 @@
     <Compile Include="CustomerViewer.Designer.cs">
       <DependentUpon>CustomerViewer.cs</DependentUpon>
     </Compile>
+    <Compile Include="MyShopDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyShopDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CustomerViewer.resx">
@@ -77,6 +81,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="MyShopDataSet.xsc">
+      <DependentUpon>MyShopDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MyShopDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyShopDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyShopDataSet.xss">
+      <DependentUpon>MyShopDataSet.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -93,7 +108,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodeFirst\CodeFirst.csproj">
-      <Project>{7de371f3-a293-4f9d-a415-d42644c883c9}</Project>
+      <Project>{552e9cb7-eb98-41d7-8618-b35b127fa998}</Project>
       <Name>CodeFirst</Name>
     </ProjectReference>
   </ItemGroup>

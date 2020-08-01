@@ -4,20 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
-using System.Data.Entity.Infrastructure;
-using static CodeFirst.Model;
 using System.Data.SqlClient;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-
 namespace CodeFirst
 {
-
-
     public class Model
     {
-
         public class Customer
         {
             public int CustomerId { get; set; }
@@ -38,19 +32,19 @@ namespace CodeFirst
 
             [Column(TypeName = "image")]
             public byte[] Photo { get; set; }
-
             public override string ToString()
             {
                 string s = FirstName + ", электронный адрес: " + Email;
                 return s;
             }
-
             // Ссылка на заказы
             public virtual List<Order> Orders { get; set; }
             public Customer()
             {
                 Orders = new List<Order>();
             }
+
+           
         }
         public class Order
         {
@@ -67,5 +61,10 @@ namespace CodeFirst
                 return s;
             }
         }
+
+        
+
     }
+
+    
 }

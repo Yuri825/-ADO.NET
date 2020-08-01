@@ -1,12 +1,12 @@
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+D:\try\PracticTasks\PracticTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb

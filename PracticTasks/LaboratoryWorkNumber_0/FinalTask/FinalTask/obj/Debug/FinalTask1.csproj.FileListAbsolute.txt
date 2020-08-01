@@ -10,3 +10,15 @@ D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\Fin
 D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.exe
 D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.pdb
 D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask1.csprojAssemblyReference.cache
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\Database1.mdf
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\Database1_log.ldf
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\FinalTask.exe.config
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\FinalTask.exe
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\bin\Debug\FinalTask.pdb
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask1.csprojAssemblyReference.cache
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.Task1.resources
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.Properties.Resources.resources
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask1.csproj.GenerateResource.cache
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask1.csproj.CoreCompileInputs.cache
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.exe
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask\obj\Debug\FinalTask.pdb

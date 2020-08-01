@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Практическое задание 9, упражнение 3, 4
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

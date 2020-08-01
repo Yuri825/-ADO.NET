@@ -8,3 +8,13 @@ D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\Fin
 D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.exe
 D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.pdb
 D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.csprojAssemblyReference.cache
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\bin\Debug\FinalTask2.exe.config
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\bin\Debug\FinalTask2.exe
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\bin\Debug\FinalTask2.pdb
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.csprojAssemblyReference.cache
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.Properties.Resources.resources
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.Task2.resources
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.csproj.GenerateResource.cache
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.csproj.CoreCompileInputs.cache
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.exe
+D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask2\obj\Debug\FinalTask2.pdb

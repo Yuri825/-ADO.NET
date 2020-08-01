@@ -1,18 +1,18 @@
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.CustomerViewer.resources
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\EntityFramework.dll
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\EntityFramework.xml
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CodeFirst.pdb
-D:\ИТМО\Технология ADO.NET\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll.config
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.CustomerViewer.resources
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\EntityFramework.dll
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CodeFirst.pdb
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll.config
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\EntityFramework.xml
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\try\PracticTasks\PracticTask9\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
