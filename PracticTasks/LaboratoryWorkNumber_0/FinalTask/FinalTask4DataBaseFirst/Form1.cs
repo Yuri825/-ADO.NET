@@ -24,19 +24,13 @@ namespace FinalTask4DataBaseFirst
         {
             adwenturecontext = new AdventureWorks2017Entities();
 
-            var cities = from d in adwenturecontext.Addresses
-                         orderby d.City
-                         select d;
-
-            IQueryable<String> cityQuery =
-                                (from cust in adwenturecontext.Addresses
-                                orderby cust.City
-                                select cust.City);
-
             try
             {
+                listBox1.DataSource = 
+                    (from p in adwenturecontext.Addresses.OrderBy(k => k.City).ToList() 
+                     select p.City).Distinct().ToList();
 
-                listBox1.DataSource = cityQuery.ToList();
+               
                 listBox1.DisplayMember = "City";
             }
             catch (Exception ex)
@@ -46,7 +40,7 @@ namespace FinalTask4DataBaseFirst
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {       
+        {
 
             var people = from a in adwenturecontext.Addresses
                          where a.City == listBox1.SelectedItem.ToString()
@@ -68,7 +62,7 @@ namespace FinalTask4DataBaseFirst
         private void button3_Click(object sender, EventArgs e)
         {
             adwenturecontext = new AdventureWorks2017Entities();
-
+           
             var people = from a in adwenturecontext.Addresses
                          where a.City == listBox1.SelectedItem.ToString()
 
