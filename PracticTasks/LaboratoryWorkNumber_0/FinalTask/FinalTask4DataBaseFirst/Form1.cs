@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Data.Entity;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,17 +23,41 @@ namespace FinalTask4DataBaseFirst
         private void button1_Click(object sender, EventArgs e)
         {
             adwenturecontext = new AdventureWorks2017Entities();
-           
-            var cities = from d in adwenturecontext.Addresses.Distinct()
+
+            var cities = from d in adwenturecontext.Addresses
                          orderby d.City
                          select d;
-            
+
+            IQueryable<String> cityQuery =
+                                (from cust in adwenturecontext.Addresses
+                                orderby cust.City
+                                select cust.City);
 
             try
             {
-                listBox1.DataSource = cities.ToList();
+
+                listBox1.DataSource = cityQuery.ToList();
                 listBox1.DisplayMember = "City";
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {       
+
+            var people = from a in adwenturecontext.Addresses
+                         where a.City == listBox1.SelectedItem.ToString()
+                         select a;
+
+            try
+            {
+
+                dataGridView1.DataSource = people.ToList();
+            }
+
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
@@ -40,31 +65,35 @@ namespace FinalTask4DataBaseFirst
 
         }
 
-        private void listBox1_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-            Address city = (Address)listBox1.SelectedItem;
-            string name = city.City;
-            //MessageBox.Show(name);
+            adwenturecontext = new AdventureWorks2017Entities();
 
             var people = from a in adwenturecontext.Addresses
-                         select a;
-                         //join b in adwenturecontext.BusinessEntityAddresses
-                         //on a.AddressID equals b.AddressID
-                         //join c in adwenturecontext.BusinessEntities
-                         //on b.BusinessEntityID equals c.BusinessEntityID
-                         //join d in adwenturecontext.Person
-                         //on c.BusinessEntityID equals d.BusinessEntityID
-                         //select d.FirstName + " " + d.MiddleName + " " + d.LastName + ": " + a.City;
+                         where a.City == listBox1.SelectedItem.ToString()
+
+                         join b in adwenturecontext.BusinessEntityAddresses
+                         on a.AddressID equals b.AddressID
+
+                         join c in adwenturecontext.BusinessEntities
+                         on b.BusinessEntityID equals c.BusinessEntityID
+
+                         join d in adwenturecontext.People
+                         on c.BusinessEntityID equals d.BusinessEntityID
+
+                         select d;
 
             try
             {
-                listBox1.DataSource = people.ToList();
-                listBox1.DisplayMember = "AddressLine1";
+
+                dataGridView1.DataSource = people.ToList();
             }
+
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
+
         }
     }
 }

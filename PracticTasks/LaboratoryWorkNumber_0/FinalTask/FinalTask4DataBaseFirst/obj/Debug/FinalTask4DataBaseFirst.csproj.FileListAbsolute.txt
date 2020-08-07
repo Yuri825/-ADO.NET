@@ -13,3 +13,18 @@ D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin
 D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin\Debug\EntityFramework.xml
 D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin\Debug\EntityFramework.SqlServer.xml
 D:\try\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\obj\Debug\FinalTask4DataBaseFirst.csproj.CopyComplete
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin\Debug\FinalTask4DataBaseFirst.exe.config
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin\Debug\FinalTask4DataBaseFirst.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin\Debug\FinalTask4DataBaseFirst.pdb
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin\Debug\EntityFramework.dll
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin\Debug\EntityFramework.xml
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\obj\Debug\FinalTask4DataBaseFirst.csprojAssemblyReference.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\obj\Debug\FinalTask4DataBaseFirst.Form1.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\obj\Debug\FinalTask4DataBaseFirst.Properties.Resources.resources
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\obj\Debug\FinalTask4DataBaseFirst.csproj.GenerateResource.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\obj\Debug\FinalTask4DataBaseFirst.csproj.CoreCompileInputs.cache
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\obj\Debug\FinalTask4DataBaseFirst.csproj.CopyComplete
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\obj\Debug\FinalTask4DataBaseFirst.exe
+D:\ИТМО\Технология ADO.NET\PracticTasks\LaboratoryWorkNumber_0\FinalTask\FinalTask4DataBaseFirst\obj\Debug\FinalTask4DataBaseFirst.pdb

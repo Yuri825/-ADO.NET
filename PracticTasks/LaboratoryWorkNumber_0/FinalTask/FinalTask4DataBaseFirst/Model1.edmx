@@ -4981,7 +4981,7 @@
             <End Role="SpecialOffer" EntitySet="SpecialOffers" />
             <End Role="SpecialOfferProduct" EntitySet="SpecialOfferProducts" />
           </AssociationSet>
-        </EntityContainer>
+          </EntityContainer>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -5199,21 +5199,21 @@
             </EntityTypeMapping>
           </EntitySetMapping>
           <EntitySetMapping Name="People">
-            <EntityTypeMapping TypeName="AdventureWorks2017Model.Person">
+            <EntityTypeMapping TypeName="IsTypeOf(AdventureWorks2017Model.Person)">
               <MappingFragment StoreEntitySet="Person">
                 <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
-                <ScalarProperty Name="PersonType" ColumnName="PersonType" />
-                <ScalarProperty Name="NameStyle" ColumnName="NameStyle" />
-                <ScalarProperty Name="Title" ColumnName="Title" />
-                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
-                <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
-                <ScalarProperty Name="LastName" ColumnName="LastName" />
-                <ScalarProperty Name="Suffix" ColumnName="Suffix" />
-                <ScalarProperty Name="EmailPromotion" ColumnName="EmailPromotion" />
-                <ScalarProperty Name="AdditionalContactInfo" ColumnName="AdditionalContactInfo" />
-                <ScalarProperty Name="Demographics" ColumnName="Demographics" />
-                <ScalarProperty Name="rowguid" ColumnName="rowguid" />
                 <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+                <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+                <ScalarProperty Name="Demographics" ColumnName="Demographics" />
+                <ScalarProperty Name="AdditionalContactInfo" ColumnName="AdditionalContactInfo" />
+                <ScalarProperty Name="EmailPromotion" ColumnName="EmailPromotion" />
+                <ScalarProperty Name="Suffix" ColumnName="Suffix" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="NameStyle" ColumnName="NameStyle" />
+                <ScalarProperty Name="PersonType" ColumnName="PersonType" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
@@ -5878,7 +5878,7 @@
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
-        </EntityContainerMapping>
+          </EntityContainerMapping>
       </Mapping>
     </edmx:Mappings>
   </edmx:Runtime>
